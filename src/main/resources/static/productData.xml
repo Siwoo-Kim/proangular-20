@@ -1,0 +1,8 @@
+<products>
+    <product name="Apples" category="Fruit" price="1.20" expiry="10"></product>
+    <product name="Bananas" category="Fruit" price="2.42" expiry="7"></product>
+    <product name="Pears" category="Fruit" price="2.02" expiry="10"></product>
+    <product name="Tuna" category="Fruit" price="20.45" expiry="3"></product>
+    <product name="Salmon" category="Fish" price="17.93" expiry="2"></product>
+    <product name="Trout" category="Fish" price="12.93" expiry="4"></product>
+</products>
